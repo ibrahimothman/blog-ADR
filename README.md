@@ -3,6 +3,7 @@
 Simple CRUD RESTful API using ADR (Admin, Domain, Responder) pattern
 
 ## How to use it
+* Run `composer install`
 * Change database credentials in .env
 * Run `php artisan migrate`
 * Test API using postman
